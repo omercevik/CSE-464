@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6d23518a-4a19-45a6-a748-3ac6331b9db8" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1VSrMRIiRlt0AYGYZICgtPrmAHG" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../lib/Jama-1.0.2.jar!/" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/hw3/part2/Output" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="hw3.part1" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/hw3/part1/images" />
+      <recent name="$PROJECT_DIR$/src/hw3/part1" />
+      <recent name="$PROJECT_DIR$/src" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Main2">
+    <configuration name="Main" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="hw3.part1.Main" />
+      <module name="Homework_03" />
+      <option name="PROGRAM_PARAMETERS" value="src/hw3/part1/images/12.jpg" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="hw3.part1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main2" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="hw3.part2.Main" />
+      <module name="Homework_03" />
+      <option name="PROGRAM_PARAMETERS" value="../Outex_TC_00012/images/" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="hw3.part2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Main2" />
+      <item itemvalue="Application.Main" />
+    </list>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6d23518a-4a19-45a6-a748-3ac6331b9db8" name="Default Changelist" comment="" />
+      <created>1577257291578</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1577257291578</updated>
+      <workItem from="1577257305258" duration="22315000" />
+      <workItem from="1577303722364" duration="1887000" />
+      <workItem from="1577343925902" duration="1562000" />
+      <workItem from="1577355911308" duration="11307000" />
+      <workItem from="1577430946242" duration="46477000" />
+      <workItem from="1577525827006" duration="23419000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="726" y="310" width="524" height="484" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog" timestamp="1577487846950">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="726" y="310" width="524" height="484" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog/67.27.1853.1053@67.27.1853.1053" timestamp="1577487846950" />
+    <state x="451" y="210" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1577562435277">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="451" y="210" key="#com.intellij.execution.impl.EditConfigurationsDialog/67.27.1853.1053@67.27.1853.1053" timestamp="1577562435277" />
+    <state x="801" y="265" width="374" height="575" key="#com.intellij.ide.util.MemberChooser" timestamp="1577482204698">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="801" y="265" width="374" height="575" key="#com.intellij.ide.util.MemberChooser/67.27.1853.1053@67.27.1853.1053" timestamp="1577482204698" />
+    <state x="615" y="296" width="735" height="513" key="FileChooserDialogImpl" timestamp="1577471987765">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="615" y="296" width="735" height="513" key="FileChooserDialogImpl/67.27.1853.1053@67.27.1853.1053" timestamp="1577471987765" />
+    <state width="1807" height="315" key="GridCell.Tab.0.bottom" timestamp="1577562687204">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1807" height="315" key="GridCell.Tab.0.bottom/67.27.1853.1053@67.27.1853.1053" timestamp="1577562687204" />
+    <state width="1807" height="315" key="GridCell.Tab.0.center" timestamp="1577562687204">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1807" height="315" key="GridCell.Tab.0.center/67.27.1853.1053@67.27.1853.1053" timestamp="1577562687204" />
+    <state width="1807" height="315" key="GridCell.Tab.0.left" timestamp="1577562687203">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1807" height="315" key="GridCell.Tab.0.left/67.27.1853.1053@67.27.1853.1053" timestamp="1577562687203" />
+    <state width="1807" height="315" key="GridCell.Tab.0.right" timestamp="1577562687204">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1807" height="315" key="GridCell.Tab.0.right/67.27.1853.1053@67.27.1853.1053" timestamp="1577562687204" />
+    <state width="1807" height="237" key="GridCell.Tab.1.bottom" timestamp="1577498203691">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1807" height="237" key="GridCell.Tab.1.bottom/67.27.1853.1053@67.27.1853.1053" timestamp="1577498203691" />
+    <state width="1807" height="237" key="GridCell.Tab.1.center" timestamp="1577498203691">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1807" height="237" key="GridCell.Tab.1.center/67.27.1853.1053@67.27.1853.1053" timestamp="1577498203691" />
+    <state width="1807" height="237" key="GridCell.Tab.1.left" timestamp="1577498203691">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1807" height="237" key="GridCell.Tab.1.left/67.27.1853.1053@67.27.1853.1053" timestamp="1577498203691" />
+    <state width="1807" height="237" key="GridCell.Tab.1.right" timestamp="1577498203691">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1807" height="237" key="GridCell.Tab.1.right/67.27.1853.1053@67.27.1853.1053" timestamp="1577498203691" />
+    <state x="476" y="130" width="1024" height="845" key="SettingsEditor" timestamp="1577561950866">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="476" y="130" width="1024" height="845" key="SettingsEditor/67.27.1853.1053@67.27.1853.1053" timestamp="1577561950866" />
+    <state x="726" y="318" width="524" height="468" key="extract.method.dialog" timestamp="1577534740033">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="726" y="318" width="524" height="468" key="extract.method.dialog/67.27.1853.1053@67.27.1853.1053" timestamp="1577534740033" />
+    <state x="657" y="253" key="run.anything.popup" timestamp="1577369605840">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="657" y="253" key="run.anything.popup/67.27.1853.1053@67.27.1853.1053" timestamp="1577369605840" />
+    <state x="656" y="257" width="672" height="678" key="search.everywhere.popup" timestamp="1577553387365">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="656" y="257" width="672" height="678" key="search.everywhere.popup/67.27.1853.1053@67.27.1853.1053" timestamp="1577553387365" />
+  </component>
+</project>
