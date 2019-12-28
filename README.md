@@ -12,3 +12,5 @@ Working Operating System:
 Homework 01 -> Writing Report Homework Defined in hw1.pdf Using LaTeX Format.
 
 Homework 02 -> Binary and Grayscale Image Path Opening in Java
+
+Homework 03 -> Nearest Neighbor Classifier Using Histogram Equalization and LBP in Java
